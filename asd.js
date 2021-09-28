@@ -1,0 +1,1 @@
+const cualqui= "cualquier cosa en la linea" ;
